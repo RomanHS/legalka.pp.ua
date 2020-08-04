@@ -47,12 +47,12 @@ main {
 }
 
 .dla_zakaza {
-    padding: 10px;
-    font-size: 27px;
+    padding: 10px 0 0 0;
+    font-size: 24px;
 }
 
 .telega {
-    font-size: 48px;
+    font-size: 43px;
     line-height: 70px;
 }
 
