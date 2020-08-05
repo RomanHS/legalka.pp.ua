@@ -49,11 +49,13 @@ main {
 .dla_zakaza {
     padding: 10px 0 0 0;
     font-size: 24px;
+    color: #005897;
 }
 
 .telega {
     font-size: 43px;
     line-height: 70px;
+    color: #005897;
 }
 
 .img {
