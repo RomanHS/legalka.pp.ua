@@ -6,6 +6,7 @@
 }
 
 body {
+    min-width: 360px;
     font-family: Roboto_Bold;
     background-color: #DEE4E7;
 }
